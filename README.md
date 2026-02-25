@@ -12,3 +12,7 @@ Data sources:
   - Newer
   - Matches up until 2026
   - Seems to be updated regularly
+- [Kaggle](https://www.kaggle.com/datasets/dissfya/atp-tennis-2000-2023daily-pull)
+  - Kaggle page with matches from 2000 to 2026
+  - Says it's updated daily (unsure)
+  - Usability of 10.0
